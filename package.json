@@ -1,0 +1,41 @@
+{
+  "name": "webalone-vscode-theme",
+  "displayName": "WebAlone Theme",
+  "description": "The best dark theme for programming | WebAlone",
+  "icon": "images/logo.png",
+  "version": "0.1.0",
+  "publisher": "RahatHassan",
+  "galleryBanner": {
+    "color": "#21252e",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rahat-a/WebAlone"
+  },
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "light theme",
+    "WebAlone theme",
+    "webalone theme",
+    "webalone",
+    "web alone",
+    "web alone theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "WebAlone Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WebAlone Theme-color-theme.json"
+      }
+    ]
+  }
+}
