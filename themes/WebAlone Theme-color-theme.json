@@ -278,7 +278,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#00e8c6"
 			}
 		},
 		{
@@ -341,7 +341,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#6998ff",
+				"foreground": "#69b1ff",
 				"fontStyle": "italic",
 			}
 		},
@@ -351,7 +351,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ffd069"
 			}
 		},
 		{
@@ -375,7 +375,8 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C",
+				"foreground": "#ff8569",
+				"fontStyle": "bold"
 			}
 		},
 		{
